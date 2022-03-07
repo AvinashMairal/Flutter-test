@@ -80,6 +80,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "scroll_date_picker",
+      "rootUri": "file:///home/avinash/Downloads/sdk_folder/flutter/.pub-cache/hosted/pub.dartlang.org/scroll_date_picker-3.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///home/avinash/Downloads/sdk_folder/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -140,7 +146,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-03-01T10:53:45.374802Z",
+  "generated": "2022-03-07T12:52:47.831318Z",
   "generator": "pub",
   "generatorVersion": "2.14.4"
 }
